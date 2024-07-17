@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adriacode
 - :books: Analysis and systems development
 - 🌱 I’m currently learning HTML5 , CSS3, Python, Java, JavaScript, C 
-- 📫 How to reach me: adriafreitas2908@gmail.com
+- 📫 How to reach me: adriacoding@gmail.com
 
 <!---
 adriacode/adriacode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
