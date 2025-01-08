@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adriacode
 - :books: Analysis and systems development
-- 🌱 I’m currently learning HTML5 , CSS3, Python, SQL, JavaScript, C , Flask
+- 🌱 I’m currently learning Python, SQL
 - 📫 How to reach me: adriacoding@gmail.com
 
 <!---
