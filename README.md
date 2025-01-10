@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Adria Freitas
 
-Estudante de Análise e Desenvolvimento de Sistemas na FATEC-SP, com conhecimento em Python e experiência acadêmica em Algoritmos, Matemática Discreta, Programação e Análise de Dados. Busco oportunidades para aplicar e expandir minhas competências técnicas em desenvolvimento de software e análise de dados.
+Student passionate about coding
 
 <p align="left">
     <a href="https://github.com/adriacode?tab=repositories&sort=stargazers">
@@ -21,7 +21,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na FATEC-SP, com conheciment
 
 ---
 
-### 💻 Linguagens e Tecnologias
+### 💻 Languages
 
 <img 
     align="left" 
@@ -31,32 +31,16 @@ Estudante de Análise e Desenvolvimento de Sistemas na FATEC-SP, com conheciment
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<img 
-    align="left" 
-    alt="SQLite3" 
-    title="SQLite3"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-plain.svg"      
-/>
 
 <br/>
 <br/>
 
-## 📊 Estatísticas
+## 📊 Statistics
 
 <p>
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=adriacode&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    alt="Linguagens Mais Usadas" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriacode&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adriacode&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adriacode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
 
 
