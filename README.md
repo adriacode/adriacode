@@ -47,8 +47,6 @@ Atualmente, estou construindo minha base técnica com projetos práticos que une
 
 ---
 
-### 🖼️ Ilustração
-
 <div align="center">
   <img height="150" src="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-ab28-622f-887d-de5a87676da4/raw?se=2025-04-13T19%3A54%3A59Z&sp=r&sv=2024-08-04&sr=b&scid=2beda562-173e-5ed5-a7b3-ea206fa1bed7&skoid=de76bc29-7017-43d4-8d90-7a49512bae0f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-13T14%3A31%3A01Z&ske=2025-04-14T14%3A31%3A01Z&sks=b&skv=2024-08-04&sig=bIlc3/fACW%2B2%2BU6Qlo/fYmJNxBUDOtvOLYglsdppWM4%3D"  />
 </div>
