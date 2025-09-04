@@ -8,7 +8,7 @@
 
 <h2 align="center">👩‍💻 Seja bem-vindo(a) ao meu GitHub!</h2>
 
-<p align="center">Estudante de ADS | Foco em Engenharia de Dados</p>
+<p align="center">Estudante de ADS | Foco em Dados</p>
 
 ---
 
