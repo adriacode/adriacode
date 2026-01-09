@@ -8,13 +8,13 @@
 
 <h2 align="center">👩‍💻 Seja bem-vindo(a) ao meu GitHub!</h2>
 
-<p align="center">Estudante de ADS | Foco em Dados</p>
+<p align="center">Estudante de ADS | Data Engineer Intern</p>
 
 ---
 
 ### 🌟 Sobre Mim
 
-✨ Olá! Sou a **Adria Freitas**, estudante de **Análise e Desenvolvimento de Sistemas** e **Estágiaria de Engenharia de Dados**. Sou apaixonada por tecnologia, dados e aprendizado contínuo. Tenho como foco a **área de dados**, onde busco transformar informações em valor através de soluções eficientes e bem estruturadas.
+✨ Olá! Sou a **Adria Freitas**, estudante de **Análise e Desenvolvimento de Sistemas** e **Estágiaria de Engenharia de Dados**. Sou apaixonada por tecnologia, dados e aprendizado contínuo. Busco transformar informações em valor através de soluções eficientes e bem estruturadas.
 
 Atualmente, estou construindo minha base técnica com projetos práticos que unem teoria, curiosidade e propósito. Estou sempre em busca de desafios que me façam evoluir, trocar experiências com pessoas incríveis e crescer como profissional e como pessoa. 🚀💡
 
