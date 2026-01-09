@@ -14,7 +14,7 @@
 
 ### 🌟 Sobre Mim
 
-✨ Olá! Sou a **Adria Freitas**, estudante de **Análise e Desenvolvimento de Sistemas** e apaixonada por tecnologia, dados e aprendizado contínuo. Tenho como foco a **Engenharia de Dados**, onde busco transformar informações em valor através de soluções eficientes e bem estruturadas.
+✨ Olá! Sou a **Adria Freitas**, estudante de **Análise e Desenvolvimento de Sistemas** e **Estágiaria de Engenharia de Dados**. Sou apaixonada por tecnologia, dados e aprendizado contínuo. Tenho como foco a **área de dados**, onde busco transformar informações em valor através de soluções eficientes e bem estruturadas.
 
 Atualmente, estou construindo minha base técnica com projetos práticos que unem teoria, curiosidade e propósito. Estou sempre em busca de desafios que me façam evoluir, trocar experiências com pessoas incríveis e crescer como profissional e como pessoa. 🚀💡
 
