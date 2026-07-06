@@ -69,9 +69,35 @@ I enjoy building data solutions using Python, SQL, and cloud technologies while 
 
 ## 📂 Featured Projects
 
-- 🌦️ Weather ETL Pipeline
-- 📚 Books to Scrape (Web Scraping)
-- 🏗️ SQL Data Warehouse Project
+### 🌦️ Weather ETL Pipeline
+
+End-to-end ETL pipeline built with **Python**, **PostgreSQL**, and the **OpenWeather API**, focused on automated weather data collection and processing.
+
+🔗 https://github.com/adriacode/weather_etl_pipeline
+
+---
+
+### 🏗️ SQL Data Warehouse Project
+
+Modern Data Warehouse project featuring **PostgreSQL**, **ETL processes**, **dimensional modeling**, and analytical queries.
+
+🔗 https://github.com/adriacode/sql-data-warehouse-project
+
+---
+
+### 📚 Books to Scrape – Web Scraping
+
+Python web scraping project using **BeautifulSoup**, **Requests**, and **Pandas** to collect and structure book data from the Books to Scrape website.
+
+🔗 https://github.com/adriacode/books-to-scrape-webscraping
+
+---
+
+### ☁️ Azure HR Data Pipeline
+
+Data Engineering project built on **Microsoft Azure**, integrating CSV files and APIs using the **Medallion Architecture (Bronze, Silver, and Gold)**.
+
+🔗 https://github.com/adriacode/azure-hr-data-pipeline
 
 ---
 
